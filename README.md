@@ -1,0 +1,2 @@
+# python-training
+ learning record
